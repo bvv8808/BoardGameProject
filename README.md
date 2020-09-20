@@ -1,2 +1,9 @@
-# BoardGameProject
-Play more difficult omok and chess. Made by unity engine.
+# BoardGameProject (Last Edit : 2020.09.20)
+
+## 개요
+기존의 오목과 체스 게임을 조금 더 어렵게 개조한 Unity 3D 게임.
+- 오목 : 선택한 좌표에 돌이 두어지지 않고, 선택한 좌표를 중심으로 3x3격자의 좌표들 중 하나에 랜덤으로 돌이 두어짐
+- 체스 : 선택한 말의 이동 가능 경로들 중 랜덤으로 한 곳으로 말이 이동함
+
+## 기술 스택
+Unity, C#
